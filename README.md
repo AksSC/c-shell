@@ -53,16 +53,12 @@ This project is a custom shell implementation in C. It replicates many features 
    ```sh
    make
    ```
-3. Run the shell:
-   ```sh
-   ./myshell
-   ```
 
 ## Usage
 ### Running the Shell
 Simply run the executable:
 ```sh
-./myshell
+./my_shell
 ```
 The shell prompt will appear, allowing you to enter commands.
 
